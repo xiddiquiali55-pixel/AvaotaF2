@@ -2,13 +2,13 @@
 
 The **AvaotaF2 V861 Development Kit** adopts a Pico-size design, compact yet powerful. It supports a standard 2.54mm pitch header interface, making it easy to connect to a breadboard for DIY experiments. Its ultra-thin double-sided design makes it the size of a 1-yuan coin, integrating all the core features of the V861, greatly enhancing development flexibility and scalability.
 
+<img width="1064" height="884" alt="image" src="https://github.com/user-attachments/assets/5ffcbe80-53d0-4948-a145-b36891734353" />
+
 This development kit boasts several powerful features:
 
 - **Onboard MIPI CSI camera interface** for high-definition image capture.
 - **MIC pickup function** for easy audio acquisition.
 - **SPI NOR FLASH** for sample storage space.
-- **Wi-Fi ceramic antenna** supporting wireless connectivity and network
- expansion.
 - **TF card socket** for easy data storage and expansion.
 - **Burn button** for simplified firmware burning.
 - Abundant **GPIO resources** that can be flexibly configured to control external hardware devices.
@@ -37,3 +37,6 @@ The AvaotaF2 V861 development kit integrates a wealth of features, is easy to op
 | Debug      | Supports UART serial debugging, ADB USB debugging  |
 | USB        | Type-C USB x1, supports power, data transfer, and serial output |
 | Layers     | 6-layer board                                       |
+
+<img width="2476" height="1857" alt="图片1" src="https://github.com/user-attachments/assets/79861136-a40e-4e2b-9635-fcd98fd2534e" />
+
